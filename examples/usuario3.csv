@@ -1,0 +1,358 @@
+﻿id,tipo_persona,actividad_empresarial,fecha,comercio,giro_comercio,tipo_venta,monto
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/01/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.46
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/01/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,57.45
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/01/22,OXXO,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.43
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/01/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.57
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/01/22,FARMACIASGUADALAJARA,"DROGUERIAS, (FARMACIAS)",fisica,19.3
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/01/22,FARMACIASGUADALAJARA,"DROGUERIAS, (FARMACIAS)",fisica,7.48
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/01/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.43
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/01/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,75.12
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/01/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/01/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.8
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/01/22,UBER,"LIMOSINAS, (TAXIS)",digital,12.87
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/01/22,UBER,"LIMOSINAS, (TAXIS)",digital,22.06
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/01/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,6.67
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/01/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,106.85
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/01/22,GOOGLEYOUTUBE,BIENES DIGITALES APLICACIONES,fisica,13.45
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/01/22,GOOGLEYOUTUBE,BIENES DIGITALES APLICACIONES,fisica,13.45
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/01/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,83.88
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/01/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/01/22,FARMACIASGUADALAJARA,"DROGUERIAS, (FARMACIAS)",fisica,3.11
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/01/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,5.41
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/01/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.27
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/01/22,UBER,"LIMOSINAS, (TAXIS)",digital,1.48
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/01/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.82
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/01/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.16
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/01/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,36.98
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/02/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,72.14
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/02/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,4.89
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,9.21
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,13.21
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,15.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,15.71
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/02/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,13.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/02/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,63.31
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,11.12
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/02/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/02/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.12
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/02/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/02/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.38
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/02/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,91.35
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/02/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,16.9
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/02/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,25.27
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/02/22,FARMACIASSIMILARES,"DROGUERIAS, (FARMACIAS)",fisica,62.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/02/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,74.09
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/02/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.55
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/02/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.57
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,9.29
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/02/22,UBER,"LIMOSINAS, (TAXIS)",digital,7.94
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/03/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,2.71
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.33
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/03/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,88.14
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/03/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/03/22,GOOGLE,PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO,fisica,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/03/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,99.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/03/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/03/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,63.31
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,13.23
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,15/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,18.78
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,11.92
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/03/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,29.63
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/03/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.01
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/03/22,FARMACIASSIMILARES,"DROGUERIAS, (FARMACIAS)",fisica,37.81
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/03/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,11.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/03/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,14.49
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/03/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.26
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/03/22,SAMSCLUB,CLUBES DE MAYORISTA,fisica,56.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/03/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,72.11
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.41
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.08
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,18.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/03/22,UBER,"LIMOSINAS, (TAXIS)",digital,19.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/03/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,4.95
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/03/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,171.18
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.06
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/04/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.51
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/04/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,84.56
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,20.23
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.36
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.91
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.71
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/04/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,83.43
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/04/22,SERVAGUADREN,"SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",digital,64.12
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.18
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.23
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/04/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,63.31
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,9.02
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,9.5
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/04/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,110.1
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,15/04/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.31
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,1.96
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,6.67
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.23
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,19/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.53
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.09
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/04/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,61.5
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/04/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,105.12
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,16.27
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,9.58
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.48
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,13.02
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,15.75
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/04/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,24.48
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/04/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,93.55
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,30/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,30/04/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.2
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,6.56
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/05/22,COPPEL,TIENDA DEPARTAMENTAL,fisica,40.34
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.01
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,17.7
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.72
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,19.71
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/05/22,SERVAGUADREN,"SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",digital,66.07
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.63
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,20.01
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,19.2
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,18.04
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,19.97
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/05/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,78.34
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/05/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,63.31
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.47
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/05/22,COPPEL,TIENDA DEPARTAMENTAL,digital,46.19
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.32
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,18.16
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,19/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,24.65
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,18.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,4.03
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,11.5
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.65
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/05/22,COPPEL,TIENDA DEPARTAMENTAL,digital,23.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,22.24
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.13
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/05/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,161.46
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.29
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,13.98
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,16.86
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,14.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,29/05/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,53.03
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,29/05/22,UBER,"LIMOSINAS, (TAXIS)",digital,10.3
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,30/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.4
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/05/22,OXXO,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,5.3
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/05/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,21.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/06/22,SAMSCLUB,CLUBES DE MAYORISTA,fisica,17.47
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,33.04
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/06/22,COPPEL,TIENDA DEPARTAMENTAL,digital,29.88
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.24
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.01
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.57
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/06/22,UBER,AGREGADOR,digital,19.37
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,15.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/06/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,143.77
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/06/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,92.53
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/06/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/06/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/06/22,UBER,AGREGADOR,digital,12.04
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/06/22,UBER,AGREGADOR,digital,9.89
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/06/22,UBER,AGREGADOR,digital,10.89
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/06/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,63.31
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/06/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,22.53
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,23.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,15/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,7.36
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/06/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,153.64
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/06/22,CARLSJR,COMIDA RAPIDA,fisica,23.79
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/06/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,31.17
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,6.1
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,19/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,5.01
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/06/22,OXXO,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,45.58
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/06/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,166.09
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,16.1
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.45
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/06/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/06/22,UBER,AGREGADOR,digital,13.57
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/06/22,UBER,AGREGADOR,digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/06/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/07/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,20.46
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/07/22,COPPEL,TIENDA DEPARTAMENTAL,digital,17.47
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/07/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,19.83
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/07/22,FARMACIASSIMILARES,"DROGUERIAS, (FARMACIAS)",fisica,19.66
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/07/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,27.58
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/07/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/07/22,FARMACIASGUADALAJARA,"DROGUERIAS, (FARMACIAS)",fisica,17.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/07/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,4.66
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/07/22,UBER,AGREGADOR,digital,15.03
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/07/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,190.64
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/07/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/07/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,109.76
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/07/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,14.77
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/07/22,GOOGLEONE,BIENES DIGITALES APLICACIONES,fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/07/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,18.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/07/22,FARMACIASSIMILARES,"DROGUERIAS, (FARMACIAS)",fisica,49.7
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/07/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/07/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/07/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,33.44
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/07/22,UBER,"LIMOSINAS, (TAXIS)",digital,14.88
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/07/22,UBER,AGREGADOR,digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/07/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,29/07/22,COPPEL,TIENDA DEPARTAMENTAL,digital,5.53
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/07/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/08/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,15.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/08/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,2.88
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/08/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,131.01
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/08/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/08/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/08/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.17
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/08/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,125.04
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/08/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/08/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/08/22,GOOGLEONE,BIENES DIGITALES APLICACIONES,fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/08/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,124.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/08/22,COPPEL,TIENDA DEPARTAMENTAL,digital,5.53
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/08/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.86
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/08/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/08/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,165.1
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/08/22,UBER,AGREGADOR,digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,29/08/22,COPPEL,TIENDA DEPARTAMENTAL,digital,23.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,30/08/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,30/08/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,26.32
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/08/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.2
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/09/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,140.94
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/09/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/09/22,COPPEL,TIENDA DEPARTAMENTAL,digital,17.47
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/09/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,7.13
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/09/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/09/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,104.11
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/09/22,SERVAGUADREN,"SERV GUBERNAM, AGUA, ELECTRICIDAD,PREDIAL,TENENCIA",digital,57.91
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/09/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/09/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/09/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/09/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/09/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,17.02
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/09/22,GOOGLEONE,SERV PROC DATOS - DISENO Y PROGRAM DE SISTEMAS,fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/09/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,155.64
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/09/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,18.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/09/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/09/22,UBER,AGREGADOR,digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.64
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,11.44
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/10/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.8
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/10/22,URBANI,BOUTIQUES ROPA - NIOS Y BEBES,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/10/22,COPPEL,TIENDA DEPARTAMENTAL,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/10/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,105.49
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,6.67
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/10/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,110.18
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,13/10/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,15/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.26
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/10/22,GOOGLEONE,BIENES DIGITALES APLICACIONES,fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/10/22,COPPEL,TIENDA DEPARTAMENTAL,digital,23.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/10/22,UBER,AGREGADOR,digital,22.06
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.82
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/10/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,117.17
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,22/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.57
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.72
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/10/22,UBER,AGREGADOR,digital,12.87
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,19.25
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,26/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,19.43
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/10/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,142.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/10/22,COPPEL,TIENDA DEPARTAMENTAL,digital,13.91
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,30/10/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,31/10/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,02/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,23.33
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,4.09
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/11/22,UBER,AGREGADOR,digital,16.32
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,29.77
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/11/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,06/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,16.27
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.34
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,07/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,20.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/11/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,27.24
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,31.43
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/11/22,SORIANA,AUTOSERVICIOS Y SUPERMERCADOS,fisica,206.93
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/11/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/11/22,UBER,AGREGADOR,digital,8.26
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/11/22,UBER,AGREGADOR,digital,8.21
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/11/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,17.93
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/11/22,UBER,AGREGADOR,digital,33.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/11/22,UBER,AGREGADOR,digital,5.24
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/11/22,GOOGLEONE,"LIMOSINAS, (TAXIS)",fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/11/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.8
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,24.83
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,19/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,33.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/11/22,FARMACIASGUADALAJARA,"DROGUERIAS, (FARMACIAS)",fisica,9.42
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/11/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,11.73
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/11/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,2.54
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,8.4
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.51
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,23/11/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,43.9
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,16.04
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/11/22,UBER,AGREGADOR,digital,8.06
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/11/22,UBER,AGREGADOR,digital,8.79
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/11/22,COPPEL,TIENDA DEPARTAMENTAL,digital,23.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,28/11/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,23.85
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,01/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,16.04
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/12/22,UBER,AGREGADOR,digital,8.29
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,03/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/12/22,UBER,AGREGADOR,digital,7.91
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,04/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/12/22,UBER,AGREGADOR,digital,7.55
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,05/12/22,UBER,AGREGADOR,digital,7.68
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,08/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,20.4
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,4.95
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,09/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.53
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,10/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,19.6
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,7.59
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/12/22,AMAZON,COMERCIOS ELECTRONICOS (VTAS POR INTERNET),digital,34.59
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/12/22,COPPEL,TIENDA DEPARTAMENTAL,digital,23.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.09
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,12/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,15/12/22,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.13
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,7.25
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/12/22,UBER,AGREGADOR,digital,20.92
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/12/22,GOOGLEONE,VENTA DE SOFTWARE PARA COMPUTADORAS,fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,19/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,20
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,19/12/22,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,5.99
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/12/22,UBER,AGREGADOR,digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/12/22,COPPEL,TIENDA DEPARTAMENTAL,digital,23.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/12/22,AMAZONPRIME,PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO,digital,11.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,25/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,9.6
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,29.02
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,27/12/22,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,19.66
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/01/23,UBER,AGREGADOR,digital,1.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,11/01/23,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,3.69
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,14/01/23,TOTALPLAY,"SERVICIOS DE TELECOMUNICACION, LLAMADAS LOC Y LARG",digital,65.61
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/01/23,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,10.18
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,16/01/23,COPPEL,TIENDA DEPARTAMENTAL,digital,28.96
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/01/23,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,13.8
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,17/01/23,GOOGLEONE,VENTA DE SOFTWARE PARA COMPUTADORAS,fisica,4.15
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/01/23,UBER,AGREGADOR,digital,20.05
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,18/01/23,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,6.22
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,20/01/23,7ELEVEN,"TIENDAS DE CONVENIENCIA, MINISUPER",fisica,12.02
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,21/01/23,AMAZONPRIME,PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO,digital,11.62
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,24/01/23,UBER,AGREGADOR,digital,8.28
+441f2f27c0a36e7cfd332b5d2dc46d71bb6d4f2c,Persona Fisica Sin Actividad Empresarial,AMA DE CASA,29/01/23,URBANI,SERVICIOS DE TRANSPORTE -NO CLASIFICADO,digital,2.54
